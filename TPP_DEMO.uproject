@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{13DBE420-4B49-CAE2-B947-9D89B1A42EAD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPP_DEMO",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
